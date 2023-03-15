@@ -15,3 +15,7 @@ The result will be a JSON file that contains 3 sections
 1. numSessions            -> The total number of open sessions
 2. sessionNames           -> The name of all the users who opened the session 
 3. userIdSessionCount     -> An inverted object mapping the users to the sessions so that we can see how many sessions each individual user has opened
+
+## Contributor
+
+Patrique Legault
