@@ -1,0 +1,26 @@
+{
+  "name": "com.adobe.support.session.analyzer",
+  "version": "1.0.0",
+  "description": "Session Analyzer Script",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pat-lego/jcr-session-analyzer.git"
+  },
+  "keywords": [
+    "nodejs",
+    "jcr",
+    "aem",
+    "session"
+  ],
+  "author": "pat-lego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pat-lego/jcr-session-analyzer/issues"
+  },
+  "homepage": "https://github.com/pat-lego/jcr-session-analyzer#readme"
+}
